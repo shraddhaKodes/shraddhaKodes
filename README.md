@@ -53,7 +53,8 @@
 ---
 
 ## 🏆 Achievements & Trophies  
-![](https://github-profile-trophy.vercel.app/?username=shraddhaKodes&theme=radical&no-frame=true&no-bg=true&margin-w=6)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shraddhaKodes&show_icons=true&hide=prs,issues,contribs)
+
 
 ---
 
