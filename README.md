@@ -53,7 +53,8 @@
 ---
 
 ## 🏆 Achievements & Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=shraddhaKodes&theme=onedark&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shraddhaKodes&show_icons=true&count_private=true)
+
 
 
 
